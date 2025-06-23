@@ -2,6 +2,7 @@
 # TASK 1 - VISIONE (SENTIMENT DA IMMAGINE)
 
 # Import librerie
+
 !pip install -q torch torchvision pandas scikit-learn matplotlib pillow tqdm
 
 import os
